@@ -76,7 +76,6 @@ ul li::before{
     background-position: center;
     top: 12px;
     left: 8px;
-<<<<<<< HEAD
 }
 ul li.checked{
     color: #555;
@@ -84,6 +83,4 @@ ul li.checked{
 }
 ul li.checked::before{
     background-image: url(images/checked.png);
-=======
->>>>>>> 1ce6274fd9654a7bd93d7745a1ac2749d822bb84
 }
